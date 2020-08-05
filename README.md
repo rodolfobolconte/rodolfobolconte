@@ -1,13 +1,13 @@
 # Hi there I'm Rodolfo Bolconte 👋
 
 ## 🎓 Formação Acadêmica
-- [ ] (2020) Mestrado em Informática - Universidade Federal da Paraíba
+- [ ] (2020) Mestrado em Informática - <a href="http://ppgi.ci.ufpb.br/" target="_blank">Universidade Federal da Paraíba</a>
 
-- [ ] (2019) Técnico em Informática - Instituto Federal da Paraíba campus Campina Grande
+- [ ] (2019) Técnico em Informática - <a href="https://estudante.ifpb.edu.br/cursos/97/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
-- [X] (2015-2019) Tecnologia em Telemática - Instituto Federal da Paraíba campus Campina Grande
+- [X] (2015-2019) Tecnologia em Telemática - <a href="https://estudante.ifpb.edu.br/cursos/27/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
-- [X] (2007-2014) Fundamental e Média - Escola Cenecista Cônego Pedro Serrão
+- [X] (2007-2014) Fundamental e Média - <a href="http://cnec.br/" target="_blank">Escola Cenecista Cônego Pedro Serrão</a>
 
 ## 🎢 Hobbies
 
