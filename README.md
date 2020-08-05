@@ -41,4 +41,4 @@
 
 ## 📊 Top Línguas
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfobolconte&layout=compact" alt="rodolfobolconte" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfobolconte&layout=compact" alt="rodolfobolconte" />
