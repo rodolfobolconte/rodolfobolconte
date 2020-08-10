@@ -7,7 +7,7 @@
 
 - [X] (2015-2019) Tecnologia em Telemática - <a href="https://estudante.ifpb.edu.br/cursos/27/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
-- [X] (2007-2014) Fundamental e Média - <a href="http://cnec.br/" target="_blank">Escola Cenecista Cônego Pedro Serrão</a>
+- [X] (2008-2014) Fundamental e Média - <a href="http://cnec.br/" target="_blank">Escola Cenecista Cônego Pedro Serrão</a>
 
 ## 🎢 Hobbies
 
