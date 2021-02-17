@@ -34,7 +34,7 @@
 </p>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/javascript-4.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="80" height="80"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="80" height="80"/>
 </p>
 
 <p>
