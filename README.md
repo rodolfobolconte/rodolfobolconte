@@ -1,9 +1,11 @@
 # Hi there I'm Rodolfo Bolconte 👋
 
 ## 🎓 Formação Acadêmica
+- [ ] (2021 - Atual) Mestrado em Ciência da Computação - <a href="http://www.computacao.ufcg.edu.br/pos-graduacao" target="_blank">Universidade Federal de Campina Grande</a>
+
 - [ ] (2019 - Atual) Técnico em Informática - <a href="https://estudante.ifpb.edu.br/cursos/97/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
-- [ ] (2020 - Desligado) Mestrado em Informática - <a href="http://ppgi.ci.ufpb.br/" target="_blank">Universidade Federal da Paraíba</a>
+~- [ ] (2020 - Desligado) Mestrado em Informática - <a href="http://ppgi.ci.ufpb.br/" target="_blank">Universidade Federal da Paraíba</a>~
 
 - [X] (2015 - 2019) Tecnologia em Telemática - <a href="https://estudante.ifpb.edu.br/cursos/27/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
