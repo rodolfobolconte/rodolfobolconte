@@ -5,7 +5,7 @@
 
 - [ ] (2019 - Atual) Técnico em Informática - <a href="https://estudante.ifpb.edu.br/cursos/97/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
-~- [ ] (2020 - Desligado) Mestrado em Informática - <a href="http://ppgi.ci.ufpb.br/" target="_blank">Universidade Federal da Paraíba</a>~
+- [X] ~(2020 - Desligado) Mestrado em Informática - <a href="http://ppgi.ci.ufpb.br/" target="_blank">Universidade Federal da Paraíba</a>~
 
 - [X] (2015 - 2019) Tecnologia em Telemática - <a href="https://estudante.ifpb.edu.br/cursos/27/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
