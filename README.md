@@ -36,7 +36,7 @@
 </p>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="80" height="80"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="80" height="80"/>
 </p>
 
 <p>
@@ -44,7 +44,7 @@
 </p>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/google-icon.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="80" height="80"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/google-2015.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="80" height="80"/>
 </p>
 
 ## 📊 Top Línguas
