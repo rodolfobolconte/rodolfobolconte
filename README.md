@@ -32,7 +32,7 @@
 ## 🧠 Utilização
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://camo.githubusercontent.com/3089bed0bd60ce0a2ecb92ac877f72aff90934bb7d7faefd923437b4389ab421/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f646a616e676f2d322d3238323835352e706e67" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-5-226027.png" width="80" height="80"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" width="80" height="80"/>
 </p>
 
 <p>
