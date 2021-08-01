@@ -48,7 +48,11 @@
 </p>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/microsoft-powerpoint-2013.svg" width="80" height="80"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/word-1.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" width="80" height="80"/>
+</p>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/steam-icon-logo.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/epic-games-2.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/ubisoft-2017-1.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/origin-1.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" width="80" height="80"/>
 </p>
 
 ## 📊 Top Línguas
