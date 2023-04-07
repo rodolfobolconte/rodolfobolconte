@@ -1,11 +1,7 @@
-# 👋 Hi there I'm Rodolfo Bolconte <a href="https://bolconte.wordpress.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="30" height="30"/></a> <a href="https://linkedin.com/in/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" height="30"/></a> <a href="https://t.me/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="30" height="30"/></a> <a href="https://facebook.com/rbolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg" width="30" height="30"/></a> <a href="https://instagram.com/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30" height="30"/></a>
+# 👋 Hi there I'm Rodolfo Bolconte <a href="https://bolconte.wordpress.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="30" height="30"/></a> <a href="https://linkedin.com/in/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30"/></a> <a href="https://t.me/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="30" height="30"/></a> <a href="https://facebook.com/rbolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg" width="30" height="30"/></a> <a href="https://instagram.com/bolconte" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" width="30" height="30"/></a>
 
 ## 🎓 Formação Acadêmica
-- [ ] (2021 - Atual) Mestrado em Ciência da Computação - <a href="http://www.computacao.ufcg.edu.br/pos-graduacao" target="_blank">Universidade Federal de Campina Grande</a>
-
-- [ ] (2019 - Atual) Técnico em Informática - <a href="https://estudante.ifpb.edu.br/cursos/97/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
-
-- [X] ~(2020 - Desligado) Mestrado em Informática - <a href="http://ppgi.ci.ufpb.br/" target="_blank">Universidade Federal da Paraíba</a>~
+- [ ] (2021 - Atual) Mestrado em Ciência da Computação - <a href="https://www.computacao.ufcg.edu.br/mestrado-e-doutorado" target="_blank">Universidade Federal de Campina Grande</a>
 
 - [X] (2015 - 2019) Tecnologia em Telemática - <a href="https://estudante.ifpb.edu.br/cursos/27/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
@@ -13,19 +9,21 @@
 
 ## 👨‍💻 Experiência Profissional
 
+- [ ] (Out/2021 - Atual) Artificial Intelligence Developer - <a href="https://lacina.computacao.ufcg.edu.br/home" target="_blank">LaCInA - Computação Inteligente Aplicada</a>
+
 - [X] (Ago/2020 - Fev/2021) Teleoperador - <a href="https://orbitall.com.br/" target="_blank">Orbitall Powered by Stefanini</a>
 
 - [X] (Out/2019 - Mar/2020) Analista Junior - <a href="https://www.accenture.com/" target="_blank">Accenture</a>
 
 ## 🎢 Hobbies
 
-🎮 Ação, Aventura e FPS é comigo mesmo ~~às vezes noob às vezes não~~
+🎮 Ação, Aventura e FPS ~~às vezes noob às vezes não~~
 
-🚗 Dirigir é muito bom, os outros que fazem raiva
+🚗 Dirigir pra qualquer lugar
 
-😼 Fazer uns carinho e pegar umas briga com Dante
+😼 Fazer carinho e pegar briga com Dante
 
-📚 Ler qualquer coisa, mas preguiça de vez em quando
+📚 Ler qualquer coisa, mas preguiça as vezes
 
 🎬 Tirando os de terror, só bora
 
