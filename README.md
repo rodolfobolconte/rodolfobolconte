@@ -1,4 +1,4 @@
-# 👋 Hi there I'm Rodolfo Bolconte <a href="https://bolconte.wordpress.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="30" height="30"/></a> <a href="https://linkedin.com/in/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30"/></a> <a href="https://t.me/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="30" height="30"/></a> <a href="https://facebook.com/rbolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg" width="30" height="30"/></a> <a href="https://instagram.com/bolconte" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" width="30" height="30"/></a>
+# 👋 Hello there, I'm Rodolfo <a href="https://bolconte.wordpress.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="30" height="30"/></a> <a href="https://linkedin.com/in/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30"/></a> <a href="http://lattes.cnpq.br/0431132751476325" target="_blank"><img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/image.png" width="30" height="30"/></a> <a href="https://t.me/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="30" height="30"/></a> <a href="https://facebook.com/rbolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg" width="30" height="30"/></a> <a href="https://instagram.com/bolconte" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" width="30" height="30"/></a> <a href="https://www.skoob.com.br/usuario/8048131" target="_blank"><img src="http://paginapessoal.utfpr.edu.br/sidgleyandrade/skoob.png/image" width="30" height="30"/></a>
 
 ## 🎓 Formação Acadêmica
 - [ ] (2021 - Atual) Mestrado em Ciência da Computação - <a href="https://www.computacao.ufcg.edu.br/mestrado-e-doutorado" target="_blank">Universidade Federal de Campina Grande</a>
@@ -19,13 +19,13 @@
 
 🎮 Ação, Aventura e FPS ~~às vezes noob às vezes não~~
 
-🚗 Dirigir pra qualquer lugar
+📚 Ler qualquer coisa, mas preguiça as vezes
 
 😼 Fazer carinho e pegar briga com Dante
 
-📚 Ler qualquer coisa, mas preguiça as vezes
-
 🎬 Tirando os de terror, só bora
+
+🚗 Dirigir pra qualquer lugar
 
 ## 💻 Utilização
 
