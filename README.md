@@ -29,6 +29,8 @@
 
 ## 💻 Utilização
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" width="80" height="80"/>
 </p>
