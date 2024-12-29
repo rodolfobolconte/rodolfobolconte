@@ -30,6 +30,15 @@
 ## 💻 Utilização
 
 <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" width="80" height="80"/>
+</p>
+
+
+
+
+
+
+<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="80" height="80"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" width="80" height="80"/>
 </p>
 
