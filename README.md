@@ -1,35 +1,33 @@
 # 👋 Hello there, I'm Rodolfo <a href="https://bolconte.wordpress.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" width="30" height="30"/></a> <a href="https://linkedin.com/in/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30" height="30"/></a> <a href="http://lattes.cnpq.br/0431132751476325" target="_blank"><img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/image.png" width="30" height="30"/></a> <a href="https://t.me/bolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/telegram-2019-logo.svg" width="30" height="30"/></a> <a href="https://facebook.com/rbolconte" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/facebook-2020-1-1.svg" width="30" height="30"/></a> <a href="https://instagram.com/bolconte" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" width="30" height="30"/></a> <a href="https://www.skoob.com.br/usuario/8048131" target="_blank"><img src="https://th.bing.com/th/id/R.e709dd75231f06cbd4fb01ce893c7dab?rik=%2bpiMbe2RbmYNVg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-GetRn8_seb0%2fVbqoAHCYDdI%2fAAAAAAAAC3E%2fbtFK4NkJthE%2fs1600%2fskoob.png&ehk=AVFYsCAwVfY2UtswcHtV9HWcTm75mHVtFANreCf%2fZR8%3d&risl=&pid=ImgRaw&r=0" width="30" height="30"/></a>
 
-## 🎓 Formação Acadêmica
-- [X] (2025 - Atual) Mestrado Profissional em Tecnologia da Informação - <a href="https://estudante.ifpb.edu.br/cursos/195/" target="_blank">Instituto Federal da Paraíba campus João Pessoa</a>
+## 🎓 Academic Background
+- [ ] (2025 - Current) Professional Master's Degree - Information Technology - <a href="https://estudante.ifpb.edu.br/cursos/195/" target="_blank">Instituto Federal da Paraíba campus João Pessoa</a>
 
-- [X] (2021 - 2024) Mestrado em Ciência da Computação - <a href="https://www.computacao.ufcg.edu.br/mestrado-e-doutorado" target="_blank">Universidade Federal de Campina Grande</a>
+- [X] (2021 - 2024) Master's Degree - Computer Science - <a href="https://www.computacao.ufcg.edu.br/mestrado-e-doutorado" target="_blank">Universidade Federal de Campina Grande</a>
 
-- [X] (2015 - 2019) Tecnologia em Telemática - <a href="https://estudante.ifpb.edu.br/cursos/27/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
+- [X] (2015 - 2019) Graduation - Telematics Technology - <a href="https://estudante.ifpb.edu.br/cursos/27/" target="_blank">Instituto Federal da Paraíba campus Campina Grande</a>
 
-- [X] (2008 - 2014) Fundamental e Médio - <a href="http://cnec.br/" target="_blank">Escola Cenecista Cônego Pedro Serrão</a>
+## 👨‍💻 Professional Experience
 
-## 👨‍💻 Experiência Profissional
+- [ ] (Oct/2021 - Current) Artificial Intelligence Developer - <a href="https://lacina.computacao.ufcg.edu.br/home" target="_blank">LaCInA - Computação Inteligente Aplicada</a>
 
-- [ ] (Out/2021 - Atual) Artificial Intelligence Developer - <a href="https://lacina.computacao.ufcg.edu.br/home" target="_blank">LaCInA - Computação Inteligente Aplicada</a>
+- [X] (Aug/2020 - Feb/2021) Teleoperator - <a href="https://orbitall.com.br/" target="_blank">Orbitall Powered by Stefanini</a>
 
-- [X] (Ago/2020 - Fev/2021) Teleoperador - <a href="https://orbitall.com.br/" target="_blank">Orbitall Powered by Stefanini</a>
-
-- [X] (Out/2019 - Mar/2020) Analista Junior - <a href="https://www.accenture.com/" target="_blank">Accenture</a>
+- [X] (Oct/2019 - Mar/2020) Junior Analyst - <a href="https://www.accenture.com/" target="_blank">Accenture</a>
 
 ## 🎢 Hobbies
 
-🎮 Ação, Aventura e FPS ~~às vezes noob às vezes não~~
+🎮 Action, Adventure, FPS and TPS ~~sometimes noob sometimes not~~
 
-📚 Ler qualquer coisa, mas preguiça as vezes
+📚 Read anything, but sometimes laziness
 
-😼 Fazer carinho e pegar briga com Dante
+😼 Petting and fighting with Dante
 
-🎬 Tirando os de terror, só bora
+🎬 All except terror
 
-🚗 Dirigir pra qualquer lugar
+🚗 Drive anywhere
 
-## 💻 Utilização
+## 💻 Technologies
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
@@ -45,6 +43,6 @@
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#) [![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#) [![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#) [![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#) [![GOG.com](https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff)](#)
 
-## 📊 Top Línguas
+## 📊 Top Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfobolconte&layout=compact" alt="rodolfobolconte" />
